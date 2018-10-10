@@ -1,2 +1,0 @@
-# ahoj
-Created with CodeSandbox
